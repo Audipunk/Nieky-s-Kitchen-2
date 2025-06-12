@@ -27,7 +27,7 @@ function NavBar() {
           <div className="flex items-center">
             <Link href="/" className="flex items-center text-4xl font-bold ">
               <LogoIcon fill="#cbd5e1" width="70" height="70" />
-              <span className="ml-2 text-lg text-slate-300 md:text-4xl hover:text-slate-700">𝔉𝔬𝔬𝔡𝔦𝔢'𝔰 𝔇𝔢𝔩𝔦𝔤𝔥𝔱</span>
+              <span className="ml-2 text-lg text-slate-300 md:text-4xl hover:text-slate-700">Nieky's Kichen</span>
             </Link>
           </div>
 

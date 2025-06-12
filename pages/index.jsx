@@ -67,10 +67,10 @@ function Home(props) {
   return (
     <div>
       <Head>
-        <title>Foodie's Delight</title>
+        <title>Nieky's Kichen</title>
         <meta
           name="description"
-          content="Welcome to Foodie's Delight, the ultimate companion for culinary enthusiasts and gastronomic adventurers! Unleash your inner chef and explore a world of delectable delights with our intuitive and feature-packed recipe app."
+          content="Welcome to Nieky's Kichen, the ultimate companion for culinary enthusiasts and gastronomic adventurers! Unleash your inner chef and explore a world of delectable delights with our intuitive and feature-packed recipe app."
         />
       </Head>
       <SearchBar applyFilters={handleApplyFilters} appliedFilters={filters} count={remainingRecipes} />
